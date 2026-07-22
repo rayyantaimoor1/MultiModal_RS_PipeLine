@@ -1,0 +1,19 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Datasets (too large / not yours to redistribute)
+data/
+
+# Checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
