@@ -11,6 +11,9 @@ checkpoints/
 *.pt
 *.pth
 
+# Results (regenerable by re-running training)
+results/
+
 # Jupyter
 .ipynb_checkpoints/
 

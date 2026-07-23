@@ -3,3 +3,5 @@ torchvision>=0.17
 pandas>=2.0
 numpy>=1.24
 rasterio>=1.3  # optional: only required for reading real GeoTIFF rasters (EuroSATDataset falls back to .npy without it)
+streamlit>=1.30
+plotly>=5.18
